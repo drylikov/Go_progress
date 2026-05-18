@@ -7,4 +7,3 @@ phases:
   build:
     commands:
       - go test -cover -v ./...
-
